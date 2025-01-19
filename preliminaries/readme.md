@@ -9,6 +9,8 @@
 #### How can we time travel?
 ## Understanding Bottleneck
 ## Inter-dependencies of concepts
+## Need to work with someone better than you physically
+### Why existing education system doesn't work
 ## Lack of Visibility or Professional Network
 ### How to break the bottleneck challenges
 # Learning to Learn
