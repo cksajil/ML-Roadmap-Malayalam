@@ -11,6 +11,10 @@
 ### How to break the bottleneck challenges
 # Learning to Learn
 # Focus
-# Creating value
-## Portfloio Projects
-## Open Source Contribution
+# Upskilling Recipie
+## Creating value
+### Portfloio Projects
+### Work with Better People and Resources
+#### Open Source Contributions
+#### Books
+#### Reading Papers
