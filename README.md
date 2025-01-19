@@ -16,3 +16,4 @@ A set of self study notes in my own style for anyone to upskill themselves in da
 13. [Research Skills](research/research.md)
 14. [NLP](nlp/nlp.md)
 15. [Computer Vision](cv/cv.md)
+16. [Audio ML](audioml/audioml.md)
