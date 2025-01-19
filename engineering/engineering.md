@@ -5,3 +5,5 @@
 # Markdown
 # LaTeX Typesetting
 # MLOps
+# Basics of Web Development
+# View of DSML from an Electronic Engineers Perspecive
