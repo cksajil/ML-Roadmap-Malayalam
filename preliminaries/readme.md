@@ -12,6 +12,10 @@
 ## Need to work with someone better than you physically
 ### Why existing education system doesn't work
 ## Lack of Visibility or Professional Network
+## You need to develop your own thinking muscles
+### How to scale up data science training
+#### Train the first 100-200 people personally
+##### Leverage Expoential Nature of Training
 ### How to break the bottleneck challenges
 # Learning to Learn
 # Focus
