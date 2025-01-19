@@ -1,6 +1,7 @@
 # Mindset
 # Finanace 101
 ## Supply and Demand
+### How to Quantify Demand ?
 ## Our Mantra
 ### How much effort is required
 #### 10,000 hour rule and its variation
