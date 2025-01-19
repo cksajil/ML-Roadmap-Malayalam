@@ -1,0 +1,12 @@
+# Deep Neural Networks
+# Convolutional Neural Networks
+# Sequential Models
+## RNN
+## LSTM
+## GRU
+## Deep RNN
+## Bidirectional RNN
+## Encoder Decoder Models
+## Attention Models
+## Transformers
+## BERT
