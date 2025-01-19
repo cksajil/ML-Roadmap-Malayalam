@@ -6,3 +6,5 @@ A set of self study notes in my own style for anyone to upskill themselves in da
 2. [Pre-requisites](prerequisites/prerequisites.md)
 
 3. [Thinking Tools](thinking_tools/thinking.md)
+
+4. [Python Programming](python/python_tutorial.md)
