@@ -14,3 +14,5 @@ A set of self study notes in my own style for anyone to upskill themselves in da
 11. [Classical ML](classical_ml/classical.md)
 12. [Deep Learning](deep_learning/deep_learning.md)
 13. [Research Skills](research/research.md)
+14. [NLP](nlp/nlp.md)
+15. [Computer Vision](cv/cv.md)
