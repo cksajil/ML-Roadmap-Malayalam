@@ -15,16 +15,14 @@
 #### Objects
 #### Inheritance
 #### Encapsulation
-
 ## Modules
-
 ## Coding Best Practises
-
 ### Global variables
 ### Coding Styles PEP8
 ### Docstrings
 ### Documentation from docstrings
 ### Decorators
+### Config Using YAML and others
 ### Virtual Environment
 ### Docker
 
