@@ -1,11 +1,15 @@
 # Mindset
 ## Need for Growth mindset throughout your life
 ## The most important question is WHY?
+## You are hired to solve business problems not as a data scientist/ml engineer
+## Be a saviour and not a consumer
+## You should have enought Depth and breadth of knowledge about the field
 # Finanace 101
 ## Supply and Demand
 ### How to Quantify Demand?
 ## Our Mantra
 ### How much effort is required
+#### Recruiter expectation changes from person to person
 #### 10,000 hour rule and its variation
 #### How can we time travel?
 ## Understanding Bottleneck
