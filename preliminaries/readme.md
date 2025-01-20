@@ -19,9 +19,11 @@
 ##### Leverage Expoential Nature of Training
 ### How to break the bottleneck challenges
 # Learning to Learn
+## Learn and Reflect
 # Focus
 # Key Upskilling strategies (How to levelup yourself?)
 ## Believe in 10000 hour rule
+### You need to be just above your recruiters level
 ## I111 Revision
 ## Creating value
 ## Build from Scratch and Learn from First Principles
