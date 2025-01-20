@@ -1,5 +1,14 @@
 # Thinking Tools
 
+## Most important question is WHY?
+## Locus of Control
 ## Big Picture
-## Divide and Conquer
 ## Write to Think
+## Teach to Learn
+## Divide and Conquer
+## Leverage Diffused mode of Thinnking
+## Take a break and come back 
+## Optimize Recurring Things
+## Multi-disciplinary Thinking
+## Network is your Networth
+

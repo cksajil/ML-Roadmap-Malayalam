@@ -20,8 +20,11 @@
 ### How to break the bottleneck challenges
 # Learning to Learn
 # Focus
-# Key upskilling strategies
+# Key Upskilling strategies (How to levelup yourself?)
+## Believe in 10000 hour rule
+## I111 Revision
 ## Creating value
+## Build from Scratch and Learn from First Principles
 ### Open Source Contribution
 #### Completely Transperant Job Experience
 ### Portfolio Projects

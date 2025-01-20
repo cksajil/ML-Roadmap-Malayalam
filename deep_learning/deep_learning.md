@@ -3,6 +3,18 @@
 # Multi-layered Perceptron
 # Deep Neural Networks
 # Activation Functions
+## Sigmoid
+## Relu
+## Softmax
+# Chain Rule and Backpropagation
+# Optimizers
+## Gradient Descent
+## Stochastic Gradient Descent
+## Batch Gradient Descent
+## Adam
+## Adagrad
+## Adadelta
+
 # Convolutional Neural Networks
 # Sequential Models
 ## RNN
