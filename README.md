@@ -19,3 +19,4 @@ A set of self study notes in my own view point/style for anyone to upskill thems
 16. [NLP](nlp/nlp.md)
 17. [Computer Vision](cv/cv.md)
 18. [Audio ML](audioml/audioml.md)
+19. [Case Studies](casestudies/casestudies.md)
