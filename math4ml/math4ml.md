@@ -1,9 +1,17 @@
+# Pre-Calculus
+## Basic Number Theory
+## Basic Algebra
+## Basic Trignometry
 # Linear Algebra
 ## Vectors
+## Functions as vectors
 ### Row Vector and Column Vector
 ### Dot Product
 ### Projection of a vector onto another
 ### Cosine Similarity
+### Distance Metrics
+#### Euclidean Distance
+#### Manhattan Distance
 ## Matrices as Transformations to Vector
 ### Basis of a Matrix
 ### Eigen values and Eigen vectors
