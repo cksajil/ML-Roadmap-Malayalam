@@ -5,6 +5,6 @@
 ## Matplotlib
 ## Seaborn
 ## Scikit-learn
-## Kears
+## Keras
 ## TensorFlow
 ## PyTorch
