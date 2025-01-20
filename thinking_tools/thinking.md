@@ -12,3 +12,6 @@
 ## Multi-disciplinary Thinking
 ## Network is your Networth
 
+## Critical Thinking
+## Creative Thinking
+
