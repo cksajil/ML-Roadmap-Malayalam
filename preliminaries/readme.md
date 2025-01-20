@@ -17,7 +17,7 @@
 ## Inter-dependencies of concepts
 ## Often the trainer himself/herself never worked in the role (Data Scientist)
 ## Can somebody who doesn't have experience in a skill train another person?
-### Excerpts from TJ Jacob, Sancharam
+### [Excerpts from T J Jacob 25| Charithram Enniloode 1752 | SafariTV](https://youtu.be/qEdWS4f84Ug?t=486)
 ## Need to work with someone better than you physically
 ### Why existing education system doesn't work
 ## Lack of Visibility or Professional Network
