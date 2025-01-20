@@ -8,12 +8,16 @@
 ## Supply and Demand
 ### How to Quantify Demand?
 ## Our Mantra
+### Time*Effort*Consistency=SUCCESS
 ### How much effort is required
 #### Recruiter expectation changes from person to person
 #### 10,000 hour rule and its variation
 #### How can we time travel?
 ## Understanding Bottleneck
 ## Inter-dependencies of concepts
+## Often the trainer himself/herself never worked in the role (Data Scientist)
+## Can somebody who doesn't have experience in a skill train another person?
+### Excerpts from TJ Jacob, Sancharam
 ## Need to work with someone better than you physically
 ### Why existing education system doesn't work
 ## Lack of Visibility or Professional Network
