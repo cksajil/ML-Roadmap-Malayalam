@@ -1,3 +1,11 @@
+# Classification Vs Regression
+## Loss Metrics
+## Mean Squared Error
+## Mean Absolute Error
+## Median Absolute Deviation
+## Log-loss
+## Cross-Entropy
+
 # Linear Regression
 # Logistical Regression
 # Naive Bayes Classifier

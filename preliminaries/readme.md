@@ -20,11 +20,12 @@
 ### How to break the bottleneck challenges
 # Learning to Learn
 # Focus
-# Upskilling Recipie
+# Key upskilling strategies
 ## Creating value
-### Portfloio Projects
-### Work with Better People and Resources
-#### Open Source Contributions
-##### Completely Transperant Job Experience
-#### Books
-#### Reading Papers
+### Open Source Contribution
+#### Completely Transperant Job Experience
+### Portfolio Projects
+## Work with Better People and Resources
+### Books
+### Research papers
+### Work with experienced or People who are better than you
