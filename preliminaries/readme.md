@@ -13,7 +13,6 @@
 ## Need to work with someone better than you physically
 ### Why existing education system doesn't work
 ## Lack of Visibility or Professional Network
-## You need to develop your own thinking muscles
 ### How to scale up data science training
 #### Train the first 100-200 people personally
 ##### Leverage Expoential Nature of Training
@@ -23,6 +22,7 @@
 # Focus
 # Key Upskilling strategies (How to levelup yourself?)
 ## Believe in 10000 hour rule
+## You need to develop your own thinking muscles
 ### You need to be just above your recruiters level
 ## I111 Revision
 ## Creating value
