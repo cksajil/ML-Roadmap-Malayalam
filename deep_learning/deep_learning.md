@@ -2,6 +2,7 @@
 # Perceptron
 # Multi-layered Perceptron
 # Deep Neural Networks
+# Activation Functions
 # Convolutional Neural Networks
 # Sequential Models
 ## RNN

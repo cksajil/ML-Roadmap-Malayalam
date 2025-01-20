@@ -11,6 +11,8 @@
 #### Singular Value Decomposition (SVD)
 #### Non-Negative Matrix Factorization (NMF)
 # Calculus
+## Functions
+## Sigmoid as Squating Function
 ## Derivative
 ## Partial Derivative
 ## Gradient
@@ -19,6 +21,9 @@
 ## Conditional Probability
 ## Bayes Theorem
 ## Probability Distributions
+### Gaussian Distribution
+### Uniform Distribution
+### Log-normal Distribution
 ## Basics of Information Theory
 # Statistics
 ## Descriptive Statistics
@@ -34,3 +39,7 @@
 ### Covariance
 ## Inferential Statistics
 ### Central Limit Theorem
+### Concept of Statistical Testing
+### P-value
+### Z-Test
+### T-Test
