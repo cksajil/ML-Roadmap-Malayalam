@@ -1,5 +1,6 @@
 # Mindset
 ## Need for Growth mindset throughout your life
+## The most important question is WHY?
 # Finanace 101
 ## Supply and Demand
 ### How to Quantify Demand?

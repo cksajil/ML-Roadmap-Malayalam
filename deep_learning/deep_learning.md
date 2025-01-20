@@ -1,3 +1,6 @@
+# Bio-inspired Computing
+# Perceptron
+# Multi-layered Perceptron
 # Deep Neural Networks
 # Convolutional Neural Networks
 # Sequential Models

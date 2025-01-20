@@ -4,3 +4,6 @@
 ## Checking and handling duplicates
 ## Checking and handling missing values
 ## Checking and handling outliers
+
+# Feature Engineering
+## Feature Orthogonality
