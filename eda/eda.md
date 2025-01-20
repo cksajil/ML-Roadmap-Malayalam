@@ -1,4 +1,4 @@
-# Types of Plots and its Usecases
+# Types of Plots and its Use cases
 
 ## Line Plot
 ## Scatter Plot
@@ -6,3 +6,5 @@
 ## Histograms
 ## Heatmaps
 ## Box Plots
+## Tweaking Default Plots
+## Creating Publication Quality Plots
