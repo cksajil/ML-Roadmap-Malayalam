@@ -25,6 +25,10 @@
 ### Config Using YAML and others
 ### Virtual Environment
 ### Docker
+## Python Modules
+## Python Tests
+## Running System Comands with Python
+## Writing Argument Parsers
 
 
 
