@@ -15,6 +15,7 @@
 
 ## Keras
 ### Sequential and Functional APIs in Keras
+### Initializers
 ### Callbacks in Keras
 - Model Checkpoint
 - Learning Rate Scheduler
