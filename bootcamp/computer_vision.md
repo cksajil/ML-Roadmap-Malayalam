@@ -22,3 +22,5 @@
 | VGGNet       | Deep      | No                | Sequential        |
 | ResNet       | Very Deep | Additive          | Residual Links    |
 | **DenseNet** | Very Deep | Concatenative     | Dense Links       |
+
+[feedback link](https://futurepicx.com/feedback?id=DC7D9D1A-6BFF-468F-87E3-A5997A4DCB6E)
