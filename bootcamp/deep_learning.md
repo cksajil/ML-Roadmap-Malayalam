@@ -4,7 +4,12 @@
 ## Deep Neural Networks (DNN)
 ### DNN for Classification
 ### DNN for Regression
-
+### Optimizers
+```python
+from tensorflow.keras.optimizers import Adam
+adam_opt = Adam(learning_rate=LEARNING_RATE, beta_1=0.9, beta_2=0.999, epsilon=1e-8)
+model.compile(optimizer= adam_opt, loss="mean_squared_error", metrics=["mse"])
+```
 ## GPU Access
 - GPU usage in Google Colab
 - GPU usage in Kaggle
@@ -24,7 +29,7 @@
 - Custom History
 
 ## How to Train a DNN
-1. Proprocess Data: Data Normalizationo
+1. Proprocess Data: Data Normalization, Global variables
 2. Weight Initialization
 - Xavier/Glorot: sigmoid/tanh
 - He: Relu
@@ -43,7 +48,7 @@
 10. Monitor train-test curves
 11. Avoid overfitting 
 
-
+## Custom Dataset and Dataloader    
 ### Auto-Encoder
 ## Sequential Models
 ### Recurrent Neural Networks (RNN)
