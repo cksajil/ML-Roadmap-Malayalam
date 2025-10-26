@@ -28,7 +28,7 @@ In the softmax function the if the input is 2 numbers, the output will those two
 The equation to convert these original numbers to their fractional/probability values as follows.
 
 
-## Equation
+## How Softmax computes these values?
 $$\text{Softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}}$$
 
 ## Equation Vs. Code Implimentaion
