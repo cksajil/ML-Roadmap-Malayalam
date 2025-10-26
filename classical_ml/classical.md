@@ -8,7 +8,10 @@
 
 # Linear Regression
 # Logistical Regression
+# LDA
+https://github.com/patrickloeber/MLfromscratch/blob/master/mlfromscratch/lda.py 
 # Naive Bayes Classifier
+https://intuitivetutorial.com/2020/12/22/an-intuitive-explanation-of-naive-bayes-classifier/
 # K-Nearest Neighbours
 # Decision Tree
 # Random Forest
