@@ -4,7 +4,7 @@ Softmax activation function is a commonly used activation function in deep learn
 
 ## What is a classifier?
 
-Lets start with understanding what a classifier algorithm is. An algorithm which can tell whether a person is wearing mask or not is an example of a classifier. Also detecting alphanumeric characters in a vehiles number plate is also a classification task. At a given position it could be digits (0-9) or some letters (A-Z) possible.
+Lets start with understanding what a classifier algorithm is. An algorithm which can tell whether a person is wearing mask or not is an example of a classifier. Another example is detecting alphanumeric characters in a vehile's number plate. At a given position it could be digits (0-9) or some letters (A-Z) possible.
 
 Classifiers can be binary classifier or multiclass classifiers. The mask detection is a binary classification example and we can say recognising alpha numeric characters in a number plate is a multi-class classification example.
 
