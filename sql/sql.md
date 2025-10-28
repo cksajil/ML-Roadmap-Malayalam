@@ -1,6 +1,11 @@
 # Databases
 ## Why do we need databases at all?
 ## The three pillars of modern AI
+
+## Structured Query Language (SQL)
+
+[![Introduction to SQL for Data Scientists](https://img.youtube.com/vi/0x0dW8T-4uo/0.jpg)](https://youtu.be/0x0dW8T-4uo)
+
 Importance of SQL: data engineering
 DB related roles in Data Science
 Connecting to DB using Python
