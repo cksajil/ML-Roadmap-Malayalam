@@ -57,3 +57,4 @@ model.compile(optimizer= adam_opt, loss="mean_squared_error", metrics=["mse"])
 ### Gated Recurrent Unit(GRU)
 ## Feedback
 [feedback link](https://futurepicx.com/feedback?id=DC7D9D1A-6BFF-468F-87E3-A5997A4DCB6E)
+

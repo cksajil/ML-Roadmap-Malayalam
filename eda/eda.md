@@ -8,3 +8,5 @@
 ## Box Plots
 ## Tweaking Default Plots
 ## Creating Publication Quality Plots
+## Inset Plots
+## Multiple Axes Plots
