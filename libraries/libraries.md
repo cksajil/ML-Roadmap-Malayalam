@@ -9,3 +9,6 @@
 ## Keras
 ## TensorFlow
 ## PyTorch
+## Streamlit
+## FASTAPI
+## Streamlit
