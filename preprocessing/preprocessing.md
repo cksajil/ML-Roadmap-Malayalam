@@ -6,4 +6,7 @@
 ## Checking and handling outliers
 
 # Feature Engineering
+## Indicator Variable
+## Feature Binning
+## Box-Cox Transformationo
 ## Feature Orthogonality
