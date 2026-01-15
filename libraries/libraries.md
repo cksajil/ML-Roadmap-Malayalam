@@ -4,6 +4,7 @@
 ## Pandas
 ## Matplotlib
 ## Seaborn
+## Scipy
 ## Scikit-learn
 ## Keras
 ## TensorFlow
