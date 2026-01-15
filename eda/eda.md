@@ -10,3 +10,6 @@
 ## Creating Publication Quality Plots
 ## Inset Plots
 ## Multiple Axes Plots
+## Bold facing
+## Adding Equations
+## Showing Open Street Maps
