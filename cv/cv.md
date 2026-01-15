@@ -2,3 +2,6 @@
 ## Operations of Images
 ## Cropping
 ## Flipping
+## Padding 
+## Stride
+## Maxpooling
