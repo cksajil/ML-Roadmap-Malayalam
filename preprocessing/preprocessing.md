@@ -10,3 +10,4 @@
 ## Feature Binning
 ## Box-Cox Transformationo
 ## Feature Orthogonality
+## Mathematical Transformations
